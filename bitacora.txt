@@ -1,1 +1,2 @@
 Trabajo usando Git por SSH
+Despues de git pull, el repositorio local quedo sincorinzado con el repositorio remoto.
