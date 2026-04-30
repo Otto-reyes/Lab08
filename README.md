@@ -1,2 +1,4 @@
 # Lab08
-pro
+# Mi prime repositorio con git
+Alumno: Otto Reyes
+Curso: INF20125
